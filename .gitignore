@@ -6,7 +6,7 @@
 *.ear
 
 # Eclipse files #
-.project
-.classpath
+01/.project
+01/.classpath
 .settings
-
+01/bin/*
