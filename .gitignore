@@ -10,3 +10,4 @@
 01/.classpath
 .settings
 01/bin/*
+.gitignore~
